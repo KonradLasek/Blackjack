@@ -1,0 +1,3 @@
+adam	DA	21
+jarek	99	18
+Bot2	AK4	19
